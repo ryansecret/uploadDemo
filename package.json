@@ -2,7 +2,11 @@
   "name": "uploaddemo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "author": "chenjingnan@jd.com",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ryansecret/uploadDemo.git"
+  },
   "devDependencies": {
     "lint-staged": "^10.2.11",
     "babel-eslint": "^10.0.1",

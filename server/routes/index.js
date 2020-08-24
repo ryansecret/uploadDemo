@@ -12,7 +12,8 @@ let s3Config= {
     timeout: 10000,
   },
   credentials: {
-
+    accessKeyId: '',
+    secretAccessKey: ''
   }
 }
 function streamToBuffer(stream) {
