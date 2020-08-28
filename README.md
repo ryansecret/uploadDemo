@@ -29,7 +29,7 @@ let  s3Config= {
 
 修改views/Home 中 regionId和bucket。
 
-关于分片的配置详见[vue-ossupload](https://git.jd.com/middleware-fe/vue-ossupload)
+关于分片的配置详见[vue-ossupload](https://www.npmjs.com/package/jdcloud-oss-upload)
 
 
 ## 联系
